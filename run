@@ -1,3 +1,2 @@
 {CREW_PREFIX}/share/heroku/bin/run
-git push heroku master
-heroku run rails db:migrate
+
